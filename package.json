@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-boe-legislacion",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Spain consolidated legislation — Agencia Estatal Boletín Oficial del Estado (BOE), open-data API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "boe-legislacion",
     "gatewaySlug": "boe-legislacion",
-    "sourceHash": "v1-ed1610db0f3d9ceb4d4cfb7ba2205d5116e422eed5cbc32a9f93f652161852ca",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-056523b0ec1c2a7d87e4c34d65d5e76b6212fab39ac965e4c706573f334b9e73",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
